@@ -2,7 +2,7 @@
 
 By CodeB0ss
 
-(VirusTotal)[https://virustotal.com/gui/file/7f47827406b96c393f50b92d6c4c2b1dc00ac86aff607ba21675928a483d9318]
+[VirusTotal](https://virustotal.com/gui/file/7f47827406b96c393f50b92d6c4c2b1dc00ac86aff607ba21675928a483d9318)
 
 Features
 Very Fast
