@@ -16,7 +16,7 @@ Auto Save Not VuLN Results In NoT_VuLN(LFI).txt
 If You Have Any Problem Contact Me 
 
 
-[Via Telegram](t.me/uncodeboss)
+[Via Telegram](https://t.me/uncodeboss)
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
